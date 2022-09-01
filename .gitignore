@@ -131,3 +131,5 @@ dmypy.json
 # additional
 datasets/
 saved_models/
+results/
+outputs/
